@@ -1,5 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&family=Source+Code+Pro&display=swap');
+
+ 
+h1 , h2 , h3 {
+  font-family: Source Code Pro, Kanit, Arial;
+}
+
+body{
+  font-family: Kanit, Source Code Pro ,Arial;
+}
+
 .med-pic-group{
     max-width: 165px;
     max-height: 165px;
       }
+
+
+
 
