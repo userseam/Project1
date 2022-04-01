@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&family=Source+Code+Pro&display=swap');
 
  
-h1 , h2 , h3 {
+h1 , h2 , h3 , h4 , h5 , h6 {
   font-family: Source Code Pro, Kanit, Arial;
 }
 
@@ -15,5 +15,15 @@ body{
       }
 
 
+#logo{
+  font-style: italic;
+  font-size: 120%;
+  color: #141414;
+  margin-left: 200px;
+  margin-top: 50px;
 
+}
 
+#main-nav {
+
+}
