@@ -115,32 +115,64 @@ footer{
   width: 100%;
   background-color: #A6B6C9;
   height: 600px;
-  background-image: url(/assets/images/hero-img-home.jpg);
+  background-image: url(/assets/images/wp4546462.jpg);
   
 
 
 }
 
+  div > p{
+  letter-spacing: normal;
+  font-weight: 300;
+  font-size: 17px;
+  color: #141414;
+  font-style: italic;
+  padding: 10px;
+
+}
+
+
+
 #introduction-section > h1{
 
 text-align: center;
-width: 100%;
+width: inherit;
 margin-top: 50px;
 margin-bottom: 25px;
 margin-right: 0;
 margin-left: 0;
-
-}
-
-
-#introduction-section > p{
-  display: inline-block;
-  position: relative;
-}
-
-
-#IN-SEC-txa {
-
+text-decoration: underline solid 3px #141414;
+letter-spacing: 2px;
+font-weight: bolder;
 
 
 }
+
+#insec-div1 {
+  height: 250px;
+ width: 350px;
+ background-color: rgb(255,255,255 ,0.7);
+ float: right;
+ margin-top: 150px;
+ margin-right: 27%;
+ 
+}
+
+
+#insec-div2 {
+  height: 250px;
+  width: 350px;
+  background-color: rgb(255,255,255 ,0.7);
+  float: left;
+   margin-left: 27%;
+   margin-top: 150px;
+}
+  
+#insec-div2 > a{
+  text-align: center;
+  margin-top: 25px;
+}
+
+
+
+ 
