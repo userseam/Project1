@@ -63,7 +63,7 @@ h1{
   border: none;
   height: 6px;
   background: black;
-  margin-bottom: 50px;
+  margin: 0;
   
 
 }
@@ -109,4 +109,13 @@ footer{
   padding-left: 50px;
   
   
+}
+
+#introduction-section {
+  width: 100%;
+  background-color: #A6B6C9;
+  height: 600px;
+  background-image: url(/assets/images/hero-img-home.jpg);
+
+
 }
