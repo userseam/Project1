@@ -144,6 +144,7 @@ margin-left: 0;
 text-decoration: underline solid 3px #141414;
 letter-spacing: 2px;
 font-weight: bolder;
+right: 0;   
 
 
 }
@@ -154,7 +155,7 @@ font-weight: bolder;
  background-color: rgb(255,255,255 ,0.7);
  float: right;
  margin-top: 150px;
- margin-right: 27%;
+ margin-right: 20%;
  
 }
 
@@ -164,7 +165,7 @@ font-weight: bolder;
   width: 350px;
   background-color: rgb(255,255,255 ,0.7);
   float: left;
-   margin-left: 27%;
+   margin-left: 20%;
    margin-top: 150px;
 }
   
@@ -174,5 +175,21 @@ font-weight: bolder;
 }
 
 
+#what-is-div {
+  width: 100%;
+  background-color: #A6B6C9;
+  height: 400px;
 
+}
  
+section >h1{
+  text-align: center;
+ 
+}
+
+#what-is-div > p{
+  border: 0;
+  margin: 0;
+  float: right;
+
+}
