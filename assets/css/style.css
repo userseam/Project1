@@ -116,6 +116,17 @@ footer{
   background-color: #A6B6C9;
   height: 600px;
   background-image: url(/assets/images/hero-img-home.jpg);
+  
+
+
+}
+
+#introduction-section > h1{
+
+text-align: center;
+width: 100%;
+margin-top: 50px;
+margin-bottom: 25px;
 
 
 }
