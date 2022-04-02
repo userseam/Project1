@@ -127,6 +127,20 @@ text-align: center;
 width: 100%;
 margin-top: 50px;
 margin-bottom: 25px;
+margin-right: 0;
+margin-left: 0;
+
+}
+
+
+#introduction-section > p{
+  display: inline-block;
+  position: relative;
+}
+
+
+#IN-SEC-txa {
+
 
 
 }
